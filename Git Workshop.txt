@@ -1,6 +1,0 @@
-1. Uvod, sistemi za verzionisanje, git, zasto git... git (sistem za verzionisanje)
-2. Github account napraviti (Pavle vec instalirao git)
-3. Osnovne komande: 
-	a) - sta je repozitorijum (local & remote - collaborative)
-		- kreiranje repozitorijuma (git init - svako pravi na svom accountu, i git clone - gdje ce svi klonirati tvoj repo kod sebe)
-		- 
